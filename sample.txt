@@ -1,1 +1,2 @@
 Added new line to test conflict merge
+changed file in gti gui
