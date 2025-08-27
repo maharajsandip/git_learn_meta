@@ -1,1 +1,1 @@
-Adding a new line
+Added new line to test conflict merge
